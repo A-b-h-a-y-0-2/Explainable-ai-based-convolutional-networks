@@ -1,5 +1,4 @@
 # Explainable-ai-based-convolutional-networks
-Convolutional Neural Network for Cat vs Dog Classification
 Overview
 In this project, I developed a Convolutional Neural Network (CNN) utilizing Explainable AI techniques to differentiate between images of cats and dogs. The primary objective was to achieve high precision and robust performance while ensuring model interpretability.
 
